@@ -1,0 +1,7 @@
+This directory contains all intermediate and final .pdb files used for this project. 
+
+The initial file "x11 Fluc model.pdb" which was used to create the first three deletion mutants.
+Post energy minimisation (suffix EM)
+Post MD suimulation (Suffix MD) - these are the final structures used for creating figures. 
+
+X11_Fluc-WT4WCN.pdb has had waters and salt ions removed for WCN and RSA calculations.
